@@ -61,7 +61,4 @@ I designed and developed the entire full‑stack application including:
 - Node.js (v14 or later)
 - MongoDB (local or Atlas cloud)
 
-### Clone the repository
-```bash
-git clone https://github.com/kalanadinuja/Library-Management-System.git
-cd Library-Management-System
+
