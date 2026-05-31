@@ -54,11 +54,6 @@ I designed and developed the entire full‑stack application including:
 - Handling state management in React with context API / Redux (if used)
 - Implementing role‑based access and JWT authentication
 
-## 📸 Screenshots
-
-| Book List | Add Book | Borrow Records |
-|-----------|----------|----------------|
-| (Add screenshot) | (Add screenshot) | (Add screenshot) |
 
 ## 🚀 Getting Started
 
